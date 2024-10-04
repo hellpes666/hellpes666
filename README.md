@@ -46,6 +46,9 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hellpes666)](https://git.io/streak-stats)
+
+---
+
 [![codewars](https://www.codewars.com/users/hellpes666/badges/large)](https://www.codewars.com/users/hellpes666)   
 
 
