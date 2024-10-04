@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Fullstack student from Russia 🇷🇺</h3>
 
+![](https://komarev.com/ghpvc/?username=hellpes666)
 # Info About me
 
 ## Stack of Technologies on Frontend:
@@ -10,8 +11,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![VueJS](https://img.shields.io/badge/-VueJS-42b883?style=flat-square&logo=vue.js&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-0AC97F?style=flat-square&logo=figma&logoColor=white)
-![Pixso](https://img.shields.io/badge/-Pixso-0AC97F?style=flat-square&logo=figma&logoColor=white) <!-- Replace with correct Pixso badge if available -->
 
 ### Worked With:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61dafb?style=flat-square&logo=react&logoColor=white)
@@ -38,7 +37,6 @@
 
 ## Design
 ![Figma](https://img.shields.io/badge/-Figma-0AC97F?style=flat-square&logo=figma&logoColor=white)
-![Pixso](https://img.shields.io/badge/-Pixso-0AC97F?style=flat-square&logo=figma&logoColor=white)
 
 ### Worked with:
 ![Bootstrap Studio](https://img.shields.io/badge/-Bootstrap%20Studio-4a4a4a?style=flat-square&logo=bootstrap&logoColor=white)
@@ -48,6 +46,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hellpes666)](https://git.io/streak-stats)
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/hellpes666)   
-![](https://komarev.com/ghpvc/?username=hellpes666)
+[![codewars](https://www.codewars.com/users/hellpes666/badges/large)](https://www.codewars.com/users/hellpes666)   
+
 
