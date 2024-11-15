@@ -10,10 +10,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3&logoColor=white)
-![VueJS](https://img.shields.io/badge/-VueJS-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61dafb?style=flat-square&logo=react&logoColor=white)
+
 
 ### Worked With:
-![ReactJS](https://img.shields.io/badge/-ReactJS-61dafb?style=flat-square&logo=react&logoColor=white)
+![VueJS](https://img.shields.io/badge/-VueJS-42b883?style=flat-square&logo=vue.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-c6538c?style=flat-square&logo=sass&logoColor=white)
