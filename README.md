@@ -46,7 +46,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hellpes666)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hellpes666&theme=monokai&border_radius=8)](https://git.io/streak-stats)
 
 ---
 
