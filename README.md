@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/hellpes666" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Fullstack student from Russia 🇷🇺</h3>
-<p align="center"> 🔭 Passionate Frontend Developer with a strong focus on creating intuitive and performant user experiences. <br> 💡 Love exploring modern web technologies and architecture patterns to build scalable applications. <br> 🚀 Currently diving deeper into React ecosystem with TypeScript. <br> ⚡ Enjoy solving complex UI challenges and optimizing frontend performance. <br> 🌱 Learning advanced React patterns and cloud technologies to level up my skills. 🎯 2024 Goals: Master micro-frontends architecture and contribute to OSS projects. </p>
+<p align="center"> 🔭 Passionate Frontend Developer with a strong focus on creating intuitive and performant user experiences. <br> 💡 Love exploring modern web technologies and architecture patterns to build scalable applications. <br> 🚀 Currently diving deeper into React ecosystem with TypeScript. <br> ⚡ Enjoy solving complex UI challenges and optimizing frontend performance. <br> 🌱 Learning advanced React patterns and cloud technologies to level up my skills. 🎯 2025 Goals: Master micro-frontends architecture and contribute to OSS projects. </p>
 
 ![](https://komarev.com/ghpvc/?username=hellpes666)
 # Info About me
